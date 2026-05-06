@@ -68,10 +68,10 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/mukutarmanekka/React-Spreadsheet-Engine-with-Formula-Evaluation-and-Dependency-Tracking.git
+git clone https://github.com/mukutarmanekka/reactsheettask2.git
 
 # Navigate to the project directory
-cd React-Spreadsheet-Engine-with-Formula-Evaluation-and-Dependency-Tracking
+cd reactsheettask2
 
 # Install dependencies
 npm install
